@@ -1,0 +1,6 @@
+[submodule "calculator"]
+	path = calculator
+	url = https://github.com/priyakhadke15/273_Calculator.git
+[submodule "grubhub"]
+	path = grubhub
+	url = https://github.com/priyakhadke15/273_Grubhub.git
